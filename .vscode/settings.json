@@ -1,0 +1,9 @@
+{
+    "amxxpawn.compiler.includePaths": [
+        "${workspaceRoot}/.compiler/include",
+        "${workspaceRoot}/.thirdparty/reapi/addons/amxmodx/scripting/include",
+        "${workspaceRoot}/src/include",
+    ],
+    "amxxpawn.compiler.options": [
+    ],
+}
